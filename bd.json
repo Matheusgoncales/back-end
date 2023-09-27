@@ -26,6 +26,20 @@
       "descricao": "Café tipo arábica",
       "validade": "2024-12-31",
       "preco": 16.59
+    },
+    {
+      "nome": "Rexona",
+      "id": 2,
+      "preco": "25.50",
+      "descricao": "Desfedorante",
+      "validade": "25-05-2050"
+    },
+    {
+      "nome": "Arroz Aurora",
+      "id": 3,
+      "preco": "59,80",
+      "descricao": "Arroz gostoso",
+      "validade": "21/12/2023"
     }
   ]
 }
